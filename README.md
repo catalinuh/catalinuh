@@ -46,6 +46,8 @@ You can find my log of my progress [here](https://github.com/catalinuh/100-days-
 
 ### Start Date: June 11, 2026
 
+#### [Day 1](https://github.com/catalinuh/100-days-of-code/blob/master/log.md#day-1-june-11-2026)
+
 ## 📈 Stats
 
 ![Cat's GitHub stats](https://github-readme-stats.vercel.app/api?username=catalinuh&show_icons=true&theme=radical&hide=stars&hide_rank=true&show=prs_merged,prs_merged_percentage)
