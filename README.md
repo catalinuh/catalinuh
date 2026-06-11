@@ -46,13 +46,21 @@ You can find my log of my progress [here](https://github.com/catalinuh/100-days-
 
 ### Start Date: June 11, 2026
 
-#### [Day 1](https://github.com/catalinuh/100-days-of-code/blob/master/log.md#day-1-june-11-2026)
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/catalinuh/100-days-of-code/blob/master/log.md#day-1-june-11-2026" target="_blank">
+            <h4>Day 1<h4>
+            </a>
+        </td>
+    </tr>
+</table>
 
 ## 📈 Stats
 
-![Cat's GitHub stats](https://github-readme-stats.vercel.app/api?username=catalinuh&show_icons=true&theme=radical&hide=stars&hide_rank=true&show=prs_merged,prs_merged_percentage)
+![Cat's GitHub stats](https://github-readme-stats.vercel.app/api?username=catalinuh&show_icons=true&theme=radical&hide=stars&hide_rank=true&show=prs_merged,prs_merged_percentage&hide_border=true&bg_color=45,a927ff,3eafff&text_color=ffffff&icon_color=ffffff&title_color=ffffff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catalinuh&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catalinuh&layout=donut&theme=radical&hide_border=true&bg_color=45,a927ff,3eafff&text_color=ffffff&icon_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📜 Sources
 
