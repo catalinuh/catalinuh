@@ -42,7 +42,7 @@ I'm a Full stack software engineer with 6+ years of experience. This page is a w
 
 In an effort to code more consistently and efficiently, I'm taking on this [decade old challenge](https://www.100daysofcode.com/) and doing the #100DaysOfCode!!
 
-You can find my log of my progress [here](https://github.com/catalinuh/100-days-of-code/blob/master/log.md).
+You can find a log of my progress [here](https://github.com/catalinuh/100-days-of-code/blob/master/log.md) or click one of the days below to read an entry from the log.
 
 ### Start Date: June 11, 2026
 
@@ -50,7 +50,12 @@ You can find my log of my progress [here](https://github.com/catalinuh/100-days-
     <tr>
         <td style="padding:10px;">
             <a href="https://github.com/catalinuh/100-days-of-code/blob/master/log.md#day-1-june-11-2026" target="_blank">
-            <h4 style="margin:0;">Day 1<h4>
+                <h4 style="margin:0;">Day 1<h4>
+            </a>
+        </td>
+        <td style="padding:10px;">
+            <a href="https://github.com/catalinuh/100-days-of-code/blob/main/log.md#day-2-june-12-2026" target="_blank">
+                <h4 style="margin:0;">Day 2<h4>
             </a>
         </td>
     </tr>
