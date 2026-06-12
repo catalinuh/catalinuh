@@ -46,11 +46,11 @@ You can find my log of my progress [here](https://github.com/catalinuh/100-days-
 
 ### Start Date: June 11, 2026
 
-<table>
+<table style="overflow:hidden;">
     <tr>
-        <td>
+        <td style="padding:10px;">
             <a href="https://github.com/catalinuh/100-days-of-code/blob/master/log.md#day-1-june-11-2026" target="_blank">
-            <h4>Day 1<h4>
+            <h4 style="margin:0;">Day 1<h4>
             </a>
         </td>
     </tr>
