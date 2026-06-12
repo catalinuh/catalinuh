@@ -49,13 +49,13 @@ You can find a log of my progress [here](https://github.com/catalinuh/100-days-o
 <table style="overflow:hidden;">
     <tr>
         <td style="padding:10px;">
-            <a href="https://github.com/catalinuh/100-days-of-code/blob/master/log.md#day-1-june-11-2026" target="_blank">
-                <h4 style="margin:0;">Day 1<h4>
+            <a href="https://github.com/catalinuh/100-days-of-code/blob/master/log.md#day-1-june-11-2026">
+                Day 1
             </a>
         </td>
         <td style="padding:10px;">
-            <a href="https://github.com/catalinuh/100-days-of-code/blob/main/log.md#day-2-june-12-2026" target="_blank">
-                <h4 style="margin:0;">Day 2<h4>
+            <a href="https://github.com/catalinuh/100-days-of-code/blob/main/log.md#day-2-june-12-2026">
+                Day 2
             </a>
         </td>
     </tr>
