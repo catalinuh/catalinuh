@@ -1,6 +1,6 @@
 ## Hey, I'm Cat! 👋
 
-I'm a Full stack software engineer with 6+ years of experience. This page is a work in progress but thanks for stopping by and visiting my page!
+I'm a full stack software engineer with 6+ years of experience. This page is a work in progress but thanks for stopping by and visiting my page!
 
 ## 📊 Tech Stack
 
