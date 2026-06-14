@@ -83,6 +83,11 @@ You can find a log of my progress [here](https://github.com/catalinuh/100-days-o
                 Day 3
             </a>
         </td>
+        <td style="padding:10px;">
+            <a href="https://github.com/catalinuh/100-days-of-code/blob/main/log/day-4.md">
+                Day 4
+            </a>
+        </td>   
     </tr>
 </table>
 
