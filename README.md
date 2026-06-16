@@ -1,6 +1,6 @@
 ## Hey, I'm Cat! 👋
 
-<p style="text-align: center;"><b>Full Stack Software Engineer · React · TypeScript · GQL · 6+ years building scalable web applications</b></p>
+<center><p><b>Full Stack Software Engineer · React · TypeScript · GQL · 6+ years building scalable web applications</b></p></center>
 
 <p>I've been passionate about web development since the days of MySpace and Neopets! Back then, I loved building profiles using HTML & CSS. Today, I love building fun, scalable full-stack web applications using React!</p>
 
