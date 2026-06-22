@@ -60,49 +60,6 @@
 ![Socket.io Badge](https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=fff&style=for-the-badge)
 ![Lodash Badge](https://img.shields.io/badge/Lodash-3492FF?logo=lodash&logoColor=fff&style=for-the-badge)
 
-## 🖥️ 100 Days of Code
-
-In an effort to code more consistently and efficiently, I'm taking on this [decade old challenge](https://www.100daysofcode.com/) and doing the #100DaysOfCode!!
-
-You can find a log of my progress [here](https://github.com/catalinuh/100-days-of-code/blob/master/log.md) or click one of the days below to read an entry from the log.
-
-### Start Date: June 11, 2026
-
-<table style="overflow:hidden;">
-    <tr>
-        <td style="padding:10px;">
-            <a href="https://github.com/catalinuh/100-days-of-code/blob/main/log/day-1.md">
-                Day 1
-            </a>
-        </td>
-        <td style="padding:10px;">
-            <a href="https://github.com/catalinuh/100-days-of-code/blob/main/log/day-2.md">
-                Day 2
-            </a>
-        </td>
-        <td style="padding:10px;">
-            <a href="https://github.com/catalinuh/100-days-of-code/blob/main/log/day-3.md">
-                Day 3
-            </a>
-        </td>
-        <td style="padding:10px;">
-            <a href="https://github.com/catalinuh/100-days-of-code/blob/main/log/day-4.md">
-                Day 4
-            </a>
-        </td>  
-        <td style="padding:10px;">
-            <a href="https://github.com/catalinuh/100-days-of-code/blob/main/log/day-5.md">
-                Day 5
-            </a>
-        </td>   
-        <td style="padding:10px;">
-            <a href="https://github.com/catalinuh/100-days-of-code/blob/main/log/day-6.md">
-                Day 6
-            </a>
-        </td>   
-    </tr>
-</table>
-
 ## 📈 Stats
 
 ![Cat's GitHub stats](https://github-readme-stats.vercel.app/api?username=catalinuh&show_icons=true&theme=radical&hide=stars&hide_rank=true&show=prs_merged,prs_merged_percentage&hide_border=true&bg_color=45,a927ff,3eafff&text_color=ffffff&icon_color=ffffff&title_color=ffffff)
